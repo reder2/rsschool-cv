@@ -1,1 +1,1 @@
-https://reder2.github.io/rsschool-cv/cv
+https://reder2.github.io/rsschool-cv/
