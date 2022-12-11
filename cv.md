@@ -18,7 +18,7 @@ Engineer at an educational school
 # Education and courses
 rs school stage -0
 # Language:
-English level - A2 
+English level - A2+
 
 
 
